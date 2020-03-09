@@ -5,7 +5,7 @@ def my_f_1(list_1=[-4, -3, 5, -2, -1, 2, 6, -2]):
     maxSum=0
     for i in range(n):
         for j in range(i+1,n):
-            #print(i,j)
+            print(i,j)
             t=0
             for k in range(i,j+1):
                 t=t+list_1[k]

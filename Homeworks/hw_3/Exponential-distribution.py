@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """
+@author: Elif CELIK-180401055
+
 Exponential Distribution
 
 Sabit ortalama değişme haddinde ortaya çıkan bağımsız olaylar arasındaki
 zaman aralığını modelleştirirken bir üstel dağılım doğal olarak ortaya çıkar.
 
+https://github.com/eelifcelik/Programlama-Lab/tree/master/Homeworks/hw_3  
 
-@author: Elif CELIK-180401055
 """
 #Gerekli kütüphaneleri ekledik
 import sympy as sym                 
